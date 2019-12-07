@@ -1,0 +1,3 @@
+Hello!
+My content will be replaced if you run the following file:
+09_writeFile.js.
